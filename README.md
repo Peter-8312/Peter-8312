@@ -20,7 +20,7 @@ Welcome to my GitHub! I'm a passionate and detail-oriented developer who recentl
 
 Here are some of the projects I'm most proud of:
 
-### 🔧 [Text Simplifier API](https://github.com/yourusername/text-simplifier)
+### 🔧 [Text Simplifier API](https://github.com/Peter-8312/TextSimplifier)
 > An NLP-based API that simplifies text by replacing complex words with common synonyms using GloVe word embeddings.
 
 - Built with Java
@@ -50,7 +50,7 @@ Here are some of the projects I'm most proud of:
 > A mobile app built using the Ionic framework and Angular.
 
 - Simple UI with navigation
-- Uses GitHub for version control
+- Allows user to input Country name and retrieves Weather & News information 
 - Great for learning component-based design
 
 ---
