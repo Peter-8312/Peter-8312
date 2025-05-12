@@ -46,7 +46,7 @@ Here are some of the projects I'm most proud of:
 
 ---
 
-### 📱 [Ionic Angular App](https://github.com/yourusername/ionic-app)
+### 📱 [Ionic Angular App](https://github.com/Peter-8312/mobAppDev)
 > A mobile app built using the Ionic framework and Angular.
 
 - Simple UI with navigation
