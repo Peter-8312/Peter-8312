@@ -21,10 +21,10 @@ Welcome to my GitHub! I'm a passionate and detail-oriented developer who recentl
 Here are some of the projects I'm most proud of:
 
 ### 🔧 [Text Simplifier API](https://github.com/Peter-8312/TextSimplifier)
-> An NLP-based API that simplifies text by replacing complex words with common synonyms using GloVe word embeddings.
+> An NLP-based API that simplifies text by replacing words with common synonyms using GloVe word embeddings.
 
 - Built with Java
-- Designed to help make text more readable
+- Designed to simplify text with embeddings
 - Uses the Google-1000 most common words
 
 ---
