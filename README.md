@@ -29,7 +29,7 @@ Here are some of the projects I'm most proud of:
 
 ---
 
-### 💬 [Java Network Chat App](https://github.com/yourusername/java-chat-app)
+### 💬 [Java Network Chat App](https://github.com/Peter-8312/JavaNetworkChatApp)
 > A client-server chat application using Java Sockets and multithreading.
 
 - Demonstrates networking fundamentals
@@ -38,13 +38,6 @@ Here are some of the projects I'm most proud of:
 
 ---
 
-### 🌐 [Cloud-Hosted WordPress Site](https://github.com/yourusername/wordpress-cloud)
-> A WordPress website hosted on a virtual machine, with networking and server configuration.
-
-- Manual setup of VM as a server
-- Focused on cloud computing and web hosting
-
----
 
 ### 📱 [Ionic Angular App](https://github.com/Peter-8312/mobAppDev)
 > A mobile app built using the Ionic framework and Angular.
