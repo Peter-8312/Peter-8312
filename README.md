@@ -38,13 +38,21 @@ Here are some of the projects I'm most proud of:
 
 ---
 
-
 ### 📱 [Ionic Angular App](https://github.com/Peter-8312/mobAppDev)
 > A mobile app built using the Ionic framework and Angular.
 
 - Simple UI with navigation
 - Allows user to input Country name and retrieves Weather & News information 
 - Great for learning component-based design
+
+---
+
+### 🖩 [Salary Scale Generator – Shell Script](https://github.com/Peter-8312/PeterCarrollCATCProject)  
+> A command-line Bash script that generates dynamic salary scale tables based on user input.
+
+- Calculates yearly salary progression with conditional manager bonuses  
+- Demonstrates use of loops, conditional statements, and arithmetic in Bash  
+- Strengthened shell scripting and Linux terminal skills
 
 ---
 
